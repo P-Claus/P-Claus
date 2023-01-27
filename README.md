@@ -3,7 +3,7 @@
 
 ## I'm an Athlete, Starting Developer, and Teacher!!
 
-- 💡 I’m currently learning Python 🐍. 
+- 💡 I’m currently learning JavaScript. 
 - 🧑‍🏫 English teacher in high school
 - 🏃‍♂️ A lot of my free time is spent running in circles
 
