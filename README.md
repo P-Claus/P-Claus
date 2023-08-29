@@ -4,7 +4,6 @@
 </picture>
 
 
-
-![](https://raw.githubusercontent.com/P-Claus/profile-stats/master/profile-summary-card-output/chartreuse_dark/0-profile-details.svg)
+![](https://raw.githubusercontent.com/P-Claus/profile-stats/master/profile-summary-card-output/city_lights/0-profile-details.svg)
 
 
