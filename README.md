@@ -1,4 +1,4 @@
-![profile header](https://github.com/P-Claus/P-Claus/blob/main/Profile-header.png)
+![profile header](https://github.com/P-Claus/P-Claus/blob/main/profile-heading.png)
 # About
 * 🙋‍♂️ I'm Pieter Claus (P-Claus) and I'm living in Antwerp, Belgium
 * 🏊‍♂️ Survived the Campus 19 piscine
