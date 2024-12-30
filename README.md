@@ -1,18 +1,14 @@
-![profile header](https://github.com/P-Claus/P-Claus/blob/main/profile-heading.png)
-# About
-* 🙋‍♂️ I'm Pieter Claus (P-Claus) and I'm living in Antwerp, Belgium
-* 🏊‍♂️ Survived the Campus 19 piscine
-* 🖥️ Studying the common core at Campus 19
-* ❤️‍🔥 Passionate about coding
-* 💻 Half-decent web developer
+# Hello, World! I'm Pieter, a software developer
+* 📍 Puurs-Sint-Amands (Antwerp 🇧🇪)
+* 🇬🇧 English teacher
+* 🖥️ Student at Campus 19
 * 🤖 Interested in data science and machine learning
-* → I don't like pointers
+* ⌨️ Founder / Software developer at <a href="https://www.bijlesplatform.be/">Bijlesplatform.be</a>
 
 
-# Skills
-<h3 align='left-align'>
-<img src="https://skillicons.dev/icons?i=c,html,css,git,github,vim,vscode,js,react,mongodb,nodejs,vite" />
-</h3>
+# Tech stack
+![My Skills](https://skillicons.dev/icons?i=bash,js,arch,cpp,html,docker,css,bootstrap,c,figma,git,github,linux,mongodb,neovim,nextjs,nginx,nodejs,npm,react,styledcomponents,ubuntu,vim,vite,wordpress,)
+
 
 # Overview
 
