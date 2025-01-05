@@ -2,7 +2,7 @@
 * 📍 Puurs-Sint-Amands (Antwerp 🇧🇪)
 * 🇬🇧 English teacher
 * 🖥️ Student at Campus 19
-* 🤖 Interested in data science and machine learning
+* 🤖 Interested in data science and AI
 * ⌨️ Founder / Software developer at <a href="https://www.bijlesplatform.be/">Bijlesplatform.be</a>
 
 
